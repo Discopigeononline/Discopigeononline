@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cedric</h1>
 <h3 align="center">A passionate full stack developer from France</h3>
 
-- 🔭 I’m currently working on **DeerChinese**
+- 🔭 I’m currently working on **building my own basic Rails**, **DeerChinese**
 
 - 🌱 I’m currently learning **Javascript**, **RSpec**
 
