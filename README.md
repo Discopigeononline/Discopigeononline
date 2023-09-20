@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 📝 I regularly write articles on [https://dev.to/discopigeon](https://dev.to/discopigeon)
+- 📝 I will regularly write articles on my learning path on [https://dev.to/discopigeon](https://dev.to/discopigeon)
 
 - 💬 Ask me about **Learn in Public, Le Wagon, Ruby on Rails, Dogs**
 
