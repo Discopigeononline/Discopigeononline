@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **DeerChinese**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Javascript**, **RSpec**
 
 - 📝 I will regularly write articles on my learning path on [https://dev.to/discopigeon](https://dev.to/discopigeon)
 
