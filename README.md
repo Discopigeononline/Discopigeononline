@@ -5,15 +5,17 @@
 
 - 🌱 I’m currently learning **Javascript**, **RSpec**
 
-- 📝 I will regularly write articles on my learning path on [https://dev.to/discopigeon](https://dev.to/discopigeon)
+- 📝 I will regularly write articles on my learning path on [My dev.to](https://dev.to/discopigeon)
 
 - 💬 Ask me about **Learn in Public, Le Wagon, Ruby on Rails, Dogs**
 
 - 📫 How to reach me **dev.rao8e@slmails.com**
 
-- 📄 Know about my experiences [https://app.enhancv.com/share/f1bb0c6f](https://app.enhancv.com/share/f1bb0c6f)
+- 📄 Know about my experiences [CV](https://app.enhancv.com/share/f1bb0c6f)
 
-- ⚡ Fun fact **Pink Elephant paradox: a pigeon dancing disco**
+- 💾 Final bootcamp project: [TrailBlazr](https://www.youtube.com/watch?v=6xIw0E5fdpA))
+
+- ⚡ Fun fact **Pink Elephant paradox: a disco-dancing pigeon ?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
