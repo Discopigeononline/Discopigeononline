@@ -11,9 +11,9 @@
 
 - 📫 How to reach me **dev.rao8e@slmails.com**
 
-- 📄 Know about my experiences [CV](https://app.enhancv.com/share/f1bb0c6f)
+- 📄 Know about my experiences [Check my CV!](https://app.enhancv.com/share/f1bb0c6f)
 
-- 💾 Final bootcamp project: [TrailBlazr](https://www.youtube.com/watch?v=6xIw0E5fdpA))
+- 💾 Final bootcamp project: [TrailBlazr](https://www.youtube.com/watch?v=6xIw0E5fdpA)
 
 - ⚡ Fun fact **Pink Elephant paradox: a disco-dancing pigeon ?**
 
