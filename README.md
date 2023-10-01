@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **building my own basic Rails**, **DeerChinese**
 
-- 🌱 I’m currently learning **Javascript**, **RSpec**
+- 🌱 I’m currently learning **Javascript**, **Testing in Ruby on Rails**
 
-- 📝 I will regularly write articles on my learning path on [My dev.to](https://dev.to/discopigeon)
+- 📝 I will regularly write articles on my learning path on [my dev.to](https://dev.to/discopigeon)
 
 - 💬 Ask me about **Learn in Public, Le Wagon, Ruby on Rails, Dogs**
 
@@ -15,7 +15,7 @@
 
 - 💾 Final bootcamp project: [TrailBlazr](https://www.youtube.com/watch?v=6xIw0E5fdpA)
 
-- ⚡ Fun fact **Pink Elephant paradox: a disco-dancing pigeon ?**
+- ⚡ **Pink Elephant paradox: a disco-dancing pigeon ?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
