@@ -7,8 +7,6 @@
 
 - 📝 I will regularly write articles on my learning path on [my dev.to](https://dev.to/discopigeon)
 
-- 💬 Ask me about **Learn in Public, Le Wagon, Ruby on Rails, Dogs**
-
 - 📫 How to reach me **dev.rao8e@slmails.com**
 
 - 📄 Know about my experiences [Check my CV!](https://app.enhancv.com/share/f1bb0c6f)
