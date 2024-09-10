@@ -13,7 +13,6 @@
 
 - 💾 Final bootcamp project: [TrailBlazr](https://www.youtube.com/watch?v=6xIw0E5fdpA)
 
-- ⚡ **Pink Elephant paradox: a disco-dancing pigeon ?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
