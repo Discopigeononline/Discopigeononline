@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Cedric</h1>
 <h3 align="center">A passionate full stack developer from France</h3>
 
-- 🔭 I’m currently working on [**CREATIP** (In Progress)](https://therapieinterpersonnelle.netlify.app/), **building my own basic Rails**, **DeerChinese**
+- 🔭 I’m currently working on [**CREATIP** (In Progress)](https://therapieinterpersonnelle.netlify.app/)
 
 - 🌱 I’m currently learning **Javascript**, **HUGO** and interested in **React/Angular**, **Docker**, **Typescript** and **Elixir**
 
-- 📝 I will regularly write articles on my learning path on [my dev.to](https://dev.to/discopigeon)
-
-- 📫 How to reach me **cedric.gdm@protonmail.com**
+- 📫 How to reach me **dev.pmgeo@slmail.me**
 
 - 📄 Know about my experiences [Check my CV!](https://app.enhancv.com/share/f1bb0c6f)
 
