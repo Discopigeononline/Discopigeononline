@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [**CREATIP** (In Progress)](https://therapieinterpersonnelle.netlify.app/)
 
-- 🌱 I’m currently learning **Javascript**, **HUGO** and interested in **React/Angular**, **Docker**, **Typescript** and **Elixir**
+- 🌱 I’m currently learning ***React** and interested in **Angular**, **Docker** and **Elixir**
 
 - 📫 How to reach me **dev.pmgeo@slmail.me**
 
@@ -19,5 +19,5 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=ruby,rails,git,github,html,css,sass,bootstrap,js,postgres,sqlite,heroku,netlify,vscode,figma,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,typescript, git,github,html,css,sass,bootstrap,js,postgres,sqlite,heroku,netlify,vscode,figma,&theme=light)](https://skillicons.dev)
 
