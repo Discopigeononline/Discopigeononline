@@ -19,5 +19,5 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=ruby,rails,typescript, git,github,html,css,sass,bootstrap,js,postgres,sqlite,heroku,netlify,vscode,figma,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,ts, git,github,html,css,sass,bootstrap,js,postgres,sqlite,heroku,netlify,vscode,figma,&theme=light)](https://skillicons.dev)
 
